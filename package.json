@@ -27,13 +27,16 @@
   },
   "homepage": "https://github.com/aliaksandr-master/gulp-check-package#readme",
   "dependencies": {
-    "through2": "^2.0.1"
+    "chalk": "^1.1.3",
+    "gulp-util": "3.0.7",
+    "lodash": "4.16.1",
+    "through2": "2.0.1"
   },
   "devDependencies": {
-    "babel-eslint": "^6.1.2",
+    "babel-eslint": "6.1.2",
     "eslint": "3.1.0",
     "eslint-loader": "1.4.1",
-    "eslint-plugin-angular": "^1.3.0",
+    "eslint-plugin-angular": "1.3.0",
     "eslint-plugin-require-path-exists": "1.1.5",
     "husky": "0.11.3"
   }
