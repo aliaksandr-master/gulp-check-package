@@ -1,6 +1,6 @@
 {
   "name": "gulp-check-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "configurable gulp task for checking packages before running or building your app",
   "main": "lib/index.js",
   "scripts": {
